@@ -11,6 +11,9 @@ commonly used when you have just checked out code for a project, or when
 another developer on the project has added a new dependency that you need to
 pick up.
 
+On executing  command 'yarn install' what if you get error -'yarn is not revognised as an internal or external command'?
+Comprehensive solutions for possible problesm should be mentioned.
+
 If you are used to using npm you might be expecting to use `--save` or
 `--save-dev`. These have been replaced by `yarn add` and `yarn add --dev`. For
 more information, see
